@@ -3,7 +3,7 @@
 
 ## Install:
 ```shell
-sh -c "$(curl -fsSL )"
+sh -c "$(curl -fsSL https://github.com/atul12354/theme-for-termux-Oh-Atul.git)"
 ```
 
 ## Change color scheme:
